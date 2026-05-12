@@ -16,8 +16,8 @@ const LeadingContent = () => {
           New Place, New Home!
         </div>
         <div className="w-343 text-center text-gray-primary text-16 font-'SF Pro Display' font-regular leading-24">
-          Are you ready to uproot and start over in a new area? Placoo will help
-          you on your journey!
+          Are you ready to merge 1 in a new area? Placoo will help
+          you on your journey! 
         </div>
       </div>
       {/* Actions */}
