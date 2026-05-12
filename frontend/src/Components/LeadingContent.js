@@ -13,7 +13,7 @@ const LeadingContent = () => {
       {/* Heading and Subheading */}
       <div className="flex flex-col justify-start items-center gap-2">
         <div className="w-343 text-center text-dark-primary text-48 font-'SF Pro Display' font-bold leading-32">
-          New Place, New Home!
+          New Place, New Home of Jeremy!
         </div>
         <div className="w-343 text-center text-gray-primary text-16 font-'SF Pro Display' font-regular leading-24">
           Are you ready to merge 1 in a new area? Placoo will help
